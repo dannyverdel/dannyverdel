@@ -1,5 +1,5 @@
 ## My resume
-  Hello and welcome to my resume. My name is Danny Verdel and I am a 18 year old student with a part-time job as rookie software developer at Dobbe Transport. A logistics company that recently started expanding on the technology branch of logistics. I am a driven worker, always looking for perfection. I love to go to the gym, go for a run and learn new programming languages.
+  Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old student with a part-time job as junior software developer at Dobbe Transport. A logistics company that recently started expanding on the IT/software side of logistics. I am a driven worker, always looking for perfection. I love to go to the gym, go for a run and learn new programming languages.
   
 ## Education
 - High School KTS Voorhout: 4 years Building, Living and Interiour
@@ -37,5 +37,5 @@ Below I have listed some of my projects I have been working on. For more details
 </details>
 <details>
   <summary>Portfolio</summary>
-  This is a self made website which is quite similair to this portfolio. But this is to display my HTML and CSS skills too. I made this as an assignment for school. 
+  This is a project I made for school. For this I only used HTML and CSS and some modified bootstrap. It was not hard to make but I am really satisfied with the looks and result of it. 
 </details>
