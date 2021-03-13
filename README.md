@@ -1,5 +1,5 @@
 ## My resume
-  Hello and welcome to my resume. My name is Danny Verdel and I am a 18 year old student with a part-time job as rookie software developer at Dobbe Transport. A logistics company that recently started expanding on the technology branch of logistics. I am a driven worker, always looking for perfection. I love to go to the gym, go running and hiking trough the dunes at the beach. 
+  Hello and welcome to my resume. My name is Danny Verdel and I am a 18 year old student with a part-time job as rookie software developer at Dobbe Transport. A logistics company that recently started expanding on the technology branch of logistics. I am a driven worker, always looking for perfection. I love to go to the gym, go for a run and learn new programming languages.
   
 ## Education
 - High School KTS Voorhout: 4 years Building, Living and Interiour
@@ -15,7 +15,7 @@
 ## Skills
 Below are some languages i am proficient in. I am to this day still developing my skills in C#, C, PowerBI, JavaScript, PHP and SQL. You can check out the <a href="https://github.com/dannyverdel/portfolio/tree/main/Certificates">Certificates</a> folder for more details. 
 
-<a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
