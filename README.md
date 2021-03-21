@@ -28,10 +28,3 @@ Below are some languages i am proficient in. I am to this day still developing m
 <a href="mailto:danny.verdel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/dannyverdel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/danny-verdel-537240207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-## Projects
-Below I have listed some of my projects I have been working on. For more details you can check out the <a href="https://github.com/dannyverdel/portfolio/tree/main/Projects">Projects</a> folder. 
-<details>
-  <summary>ReaBooster</summary>
-  This is a fun web game where you have to click the targets as fast as possible. It registers your reaction time and score. I did this with HTML and CSS for the looks and JavaScript for the functions and interaction. I made the base of this in a course called 'The complete web developer course 2.0' on udemy and added some extra features and styles by myself.
-</details>
