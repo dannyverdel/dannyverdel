@@ -15,6 +15,7 @@ Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old 
 ## Skills
 Below are some languages i am proficient in. I am to this day still developing my skills in C, C#, PowerBI, JavaScript, PHP and SQL. You can check out the <a href="https://github.com/dannyverdel/portfolio/tree/main/Certificates">Certificates</a> folder for more details. 
 
+<a href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
