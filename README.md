@@ -31,3 +31,6 @@ Below are some languages i am proficient in. I am to this day still developing m
 
 # Currently working on 
 API Data endpoint for Dobbe Transport
+
+<a href=""><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
