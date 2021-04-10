@@ -13,7 +13,7 @@ Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old 
 - Internship Verdel ICT & Media: 28-09-2020 - 15-01-2021
 
 ## Skills
-Below are some languages i am proficient in. I am to this day still developing my skills in C, C#, PowerBI, JavaScript, PHP and SQL. You can check out the <a href="https://github.com/dannyverdel/portfolio/tree/main/Certificates">Certificates</a> folder for more details. 
+Below are some languages i am proficient in. I am to this day still developing my skills in C, C#, PowerBI, JavaScript, PHP and SQL. You can check out the <a href="https://github.com/dannyverdel/portfolio/tree/main/Certificates">Certificates</a> folder for more details.
 
 <a href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
@@ -24,6 +24,12 @@ Below are some languages i am proficient in. I am to this day still developing m
 <a href=""><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+
+I learned most of my skills on the following websites/apps
+
+<a href=""><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/Sololearn-1ABC9C?style=for-the-badge&logo=sololearn&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/LinkedIn Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 
 ## Contact
 <a href="mailto:danny.verdel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
