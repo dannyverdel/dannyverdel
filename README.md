@@ -36,7 +36,7 @@ I learned most of my skills on the following websites/apps
 <a href="https://www.instagram.com/dannyverdel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 # Currently working on 
-API Data endpoint for Dobbe Transport
+API Automating Ordering for Dobbe Transport
 
 <a href=""><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
@@ -44,6 +44,6 @@ API Data endpoint for Dobbe Transport
 
 [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dannyverdel&repo=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/dannyverdel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=portfolio&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/portfolio)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
