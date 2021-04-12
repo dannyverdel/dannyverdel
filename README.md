@@ -42,8 +42,8 @@ API Automating Ordering for Dobbe Transport
 <a href=""><img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
 
 
-[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=DEG,0d1116,FFFFFF&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
+[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=DEG,0d1116,FFFFFF&text_color=FFFFFF&hide_border=false&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=DEG,0d1116,FFFFFF&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF)](https://github.com/dannyverdel/dannyverdel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=DEG,0d1116,FFFFFF&text_color=FFFFFF&hide_border=false&icon_color=FFFFFF)](https://github.com/dannyverdel/dannyverdel)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=DEG,0d1116,FFFFFF&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=DEG,0d1116,FFFFFF&text_color=FFFFFF&hide_border=false&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
