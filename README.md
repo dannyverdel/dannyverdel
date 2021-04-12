@@ -44,6 +44,6 @@ API Data endpoint for Dobbe Transport
 
 [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dannyverdel&repo=portfolio&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dannyverdel&repo=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/dannyverdel)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
