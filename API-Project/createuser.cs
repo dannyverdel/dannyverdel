@@ -3,7 +3,7 @@
 /*  createuser.cs                                                             */
 /*  By: Danny Verdel <danny.verdel@gmail.com                                  */
 /*  Created: 2021/04/06 17:45                                                 */
-/*  Updated: 2021/04/12 18:05                                                 */
+/*  Updated: 2021/04/13 21:20                                                 */
 /*                                                                            */
 /*  Let users be able to create a user account by themselves.                 */
 /*  They can later use this account to access other APIs                      */
