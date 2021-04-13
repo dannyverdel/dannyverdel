@@ -303,10 +303,10 @@ namespace ApiDobbeTransport
         {
             log.LogInformation("C# HTTP trigger function processed a request.");
 
-			try
-			{
-				//Retrieve request body
-				string requestBody = await new StreamReader(req.Body).ReadToEndAsync();
+	    try
+	    {
+		//Retrieve request body
+		string requestBody = await new StreamReader(req.Body).ReadToEndAsync();
                 Request request = JsonConvert.DeserializeObject<Request>(requestBody);
 
                 //Saving request body
