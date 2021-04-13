@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=dannyverdel" alt="visitor badge"/>
+</p>
+
 ## My resume
 Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old student. I am a driven worker, always looking for perfection. I love to go to the gym, go for a run and learn new programming languages. I am currently developing API's for Dobbe Transport.
   
