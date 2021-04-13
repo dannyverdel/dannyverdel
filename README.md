@@ -1,18 +1,18 @@
 ## My resume
 Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old student. I am a driven worker, always looking for perfection. I love to go to the gym, go for a run and learn new programming languages. I am currently developing API's for Dobbe Transport.
   
-## Education
+# Education
 - High School KTS Voorhout: 4 years Building, Living and Interiour
 - MBO Nova College Hoofddorp: 1 year Civil Engineering
 - MBO Nova College Hoofddorp: Media/Application Development 2019 - present
 
-## Employment Experience
+# Employment Experience
 - Dobbe Transport washing crew: 27-08-2016 - 28-11-2020
 - Dobbe Transport application development: 05-12-2020 - present
 - New York Pizza delivery: 24-02-2020 - 01-01-2021
 - Internship Verdel ICT & Media: 28-09-2020 - 15-01-2021
 
-## Skills
+# Skills
 Below are some languages i am proficient in. I am to this day still developing my skills in C, C#, PowerBI, JavaScript, PHP and SQL. You can check out the <a href="https://github.com/dannyverdel/dannyverdel/tree/main/Certificates">Certificates</a> folder for more details.
 
 <a href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -30,13 +30,14 @@ I learned most of my skills on the following websites/apps
 <a href=""><img src="https://img.shields.io/badge/Sololearn-1ABC9C?style=for-the-badge&logo=sololearn&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/LinkedIn Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 
-## Contact
+# Contact
 <a href="mailto:danny.verdel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/dannyverdel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 # Currently working on 
 API Automating Ordering for Dobbe Transport
 
+# Stats
 [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF)](https://github.com/dannyverdel/dannyverdel)
