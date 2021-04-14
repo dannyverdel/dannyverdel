@@ -1,9 +1,9 @@
 
 /* ************************************************************************** */
 /*  createuser.cs                                                             */
-/*  By: Danny Verdel <danny.verdel@gmail.com                                  */
-/*  Created: 2021/04/06 17:45                                                 */
-/*  Updated: 2021/04/13 21:20                                                 */
+/*  By: Danny Verdel <danny.verdel@gmail.com>                                 */
+/*  Created: 2021/04/11 17:45                                                 */
+/*  Updated: 2021/04/14 09:30                                                 */
 /*                                                                            */
 /*  Let users be able to create a user account by themselves.                 */
 /*  They can later use this account to access other APIs                      */
@@ -355,7 +355,7 @@ namespace ApiDobbeTransport
                     return Response.Unauthorized("Credentials are not valid");
                 }
             }
-            //Fail save for when the user forgets comma, bracket, etc.
+            //Fail safe for when the user forgets comma, bracket, etc.
             catch
             {
                 return Response.BadRequest("'RelationCompanynr', 'Relation', 'Company' or 'Password' has not been specified properly");
