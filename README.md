@@ -7,10 +7,24 @@ Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old 
 - MBO Nova College Hoofddorp: Media/Application Development 2019 - present
 
 # Employment Experience
+
+<img align="right" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
+- 👨‍💻  **Application Development**\
+  📆  05-12-2020 - present\
+  📍  **Dobbe Transport:** Roelofarendsveen, Netherlands
+  
+<img align="right" src="https://img.shields.io/badge/Powerapps-672367?style=for-the-badge&logo=Powerapps&logoColor=white">
+<img align="right" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  
+- 👨‍💻  **Internship Application Development**\
+  📆  28-09-2020 - 15-01-2021\
+  📍  **Verdel ICT & Media:** Roelofarendsveen, Netherlands
+  
 - Dobbe Transport washing crew: 27-08-2016 - 28-11-2020
-- Dobbe Transport application development: 05-12-2020 - present
 - New York Pizza delivery: 24-02-2020 - 01-01-2021
-- Internship Verdel ICT & Media: 28-09-2020 - 15-01-2021
 
 # Skills
 Below are some languages i am proficient in. I am to this day still developing my skills in C, C#, PowerBI, JavaScript, PHP and SQL. You can check out the <a href="https://github.com/dannyverdel/dannyverdel/tree/main/Certificates">Certificates</a> folder for more details.
