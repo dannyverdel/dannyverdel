@@ -37,7 +37,7 @@ I learned most of my skills on the following websites/apps
 - API Automating Ordering for Dobbe Transport
 
 # Stats
-[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
+[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true&exclude_repo=dannyverdel)](https://github.com/dannyverdel/github-readme-stats)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF)](https://github.com/dannyverdel/dannyverdel)
 <br>
