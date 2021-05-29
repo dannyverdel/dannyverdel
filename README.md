@@ -43,3 +43,5 @@ I learned most of my skills on the following websites/apps
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=react-native&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF)](https://github.com/dannyverdel/react-native)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
