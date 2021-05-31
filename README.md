@@ -48,7 +48,7 @@ I learned most of my skills on the following websites/apps
 <a href="https://www.instagram.com/dannyverdel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 # Currently working on 
-- API Automating Ordering for Dobbe Transport
+- Automating orders for Dobbe Transport using an API
 
 # Stats
 [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true&exclude_repo=dannyverdel)](https://github.com/dannyverdel/dannyverdel)
