@@ -27,7 +27,7 @@ Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old 
 - New York Pizza delivery: 24-02-2020 - 01-01-2021
 
 # Skills
-Below are some languages i am proficient in. I am to this day still developing my skills in C, C#, PowerBI, JavaScript, PHP and SQL. You can check out the <a href="https://github.com/dannyverdel/dannyverdel/tree/main/Certificates">Certificates</a> folder for more details.
+Below are some languages i am proficient in. I am to this day still developing my skills in C#, JavaScript and SQL. You can check out the <a href="https://github.com/dannyverdel/dannyverdel/tree/main/Certificates">Certificates</a> folder for more details.
 
 <a href=""><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
@@ -49,6 +49,7 @@ I learned most of my skills on the following websites/apps
 
 # Currently working on 
 - Automating orders for Dobbe Transport using an API
+- React-native course
 
 # Stats
 [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true&exclude_repo=dannyverdel)](https://github.com/dannyverdel/dannyverdel)
