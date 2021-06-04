@@ -6,6 +6,28 @@ Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old 
 - MBO Nova College Hoofddorp: 1 year Civil Engineering
 - High School KTS Voorhout: 4 years Building, Living and Interiour
 
+# Education 
+
+```json
+"education": [
+  {
+    "School": "MBO Nova College Hoofddorp",
+    "degree": "Media/Application Development",
+    "years": "2019 - present"
+  },
+  {
+    "School": "MBO Nova College Hoofddorp",
+    "degree": "Civil Engineering",
+    "years": "2018 - 2019"
+  },
+  {
+    "school": "KTS Voorhout",
+    "degree": "Build living and interior",
+    "years": "2015 - 2018"
+  }
+]
+```
+
 # Employment Experience
 
 <img align="right" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
