@@ -1,10 +1,12 @@
 ## My resume
 Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old student. I am a driven worker, always looking for perfection. I love to go to the gym, and learn some new programming languages. I am currently developing API's and applications for Dobbe Transport.
-  
+
+<!--
 # Education
-- MBO Nova College Hoofddorp: Media/Application Development 2019 - present
-- MBO Nova College Hoofddorp: 1 year Civil Engineering
-- High School KTS Voorhout: 4 years Building, Living and Interiour
+- MBO Nova College Hoofddorp: Software Development 2019 - present
+- MBO Nova College Hoofddorp: Civil Engineering 2018 - 2019
+- KTS Voorhout: Build living and interior 2015 - 2018
+-->
 
 # Education 
 
