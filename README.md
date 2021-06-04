@@ -12,7 +12,7 @@ Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old 
 "education": [
   {
     "school": "MBO Nova College Hoofddorp",
-    "degree": "Media/Application Development",
+    "degree": "Software Developer",
     "years": "2019 - present"
   },
   {
