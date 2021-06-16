@@ -80,7 +80,7 @@ I learned most of my skills on the following websites/apps
 [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true&exclude_repo=dannyverdel)](https://github.com/dannyverdel/dannyverdel)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=MSDB&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF)](https://github.com/dannyverdel/MSDB)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=App&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF)](https://github.com/Dobbe-Transport-Development/App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Dobbe-Transport-Development&repo=App&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF)](https://github.com/Dobbe-Transport-Development/App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=react-native&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF)](https://github.com/dannyverdel/react-native)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
