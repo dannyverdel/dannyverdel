@@ -6,46 +6,20 @@ Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old 
 - MBO Nova College Hoofddorp: Civil Engineering 2018 - 2019
 - KTS Voorhout: Build living and interior 2015 - 2018
 
-<!--
-# Education 
-
-```json
-"education": [
-  {
-    "school": "MBO Nova College Hoofddorp",
-    "degree": "Software Developer",
-    "years": "2019 - present"
-  },
-  {
-    "school": "MBO Nova College Hoofddorp",
-    "degree": "Civil Engineering",
-    "years": "2018 - 2019"
-  },
-  {
-    "school": "KTS Voorhout",
-    "degree": "Build living and interior",
-    "years": "2015 - 2018"
-  }
-]
-```
--->
-
 # Employment Experience
-
-<img align="right" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 - 👨‍💻  **Application Development**\
   📆  05-12-2020 - present\
-  📍  **Dobbe Transport:** Roelofarendsveen, Netherlands
-  
-<img align="right" src="https://img.shields.io/badge/Powerapps-672367?style=for-the-badge&logo=Powerapps&logoColor=white">
-<img align="right" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  📍  **Dobbe Transport:** Roelofarendsveen, Netherlands\
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   
 - 👨‍💻  **Internship Application Development**\
   📆  28-09-2020 - 15-01-2021\
-  📍  **Verdel ICT & Media:** Roelofarendsveen, Netherlands
+  📍  **Verdel ICT & Media:** Roelofarendsveen, Netherlands\
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Powerapps-672367?style=for-the-badge&logo=Powerapps&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   
 - Dobbe Transport washing crew: 27-08-2016 - 28-11-2020
 - New York Pizza delivery: 24-02-2020 - 01-01-2021
@@ -73,14 +47,13 @@ I learned most of my skills on the following websites/apps
 <a href="https://www.instagram.com/dannyverdel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 # Currently working on 
-- Automating orders for Dobbe Transport using an API
-- MSDB (Movies & Shows Database) App. Public repo
+- API platform for Dobbe Transport using Azure functions
+- App for internal use at Dobbe Transport using react-native
+- MSDB (Movies & Shows Database) App for myself using react-native
 
 # Stats
 [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true&exclude_repo=dannyverdel)](https://github.com/dannyverdel/dannyverdel)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=MSDB&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF)](https://github.com/dannyverdel/MSDB)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Dobbe-Transport-Development&repo=App&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF)](https://github.com/Dobbe-Transport-Development/App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=react-native&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF)](https://github.com/dannyverdel/react-native)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
