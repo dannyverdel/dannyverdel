@@ -1,6 +1,5 @@
 ## My resume
-Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old student. I am a driven worker, always looking for perfection. I love to go to the gym, and learn some new programming languages. I am currently developing API's and applications for Dobbe Transport. <br>
-![Profile views](https://gpvc.arturio.dev/dannyverdel)
+Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old student. I am a driven worker, always looking for perfection. I love to go to the gym, and learn some new programming languages. I am currently developing API's and applications for Dobbe Transport.
 
 
 # Education
