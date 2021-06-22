@@ -1,29 +1,34 @@
-## My resume
-Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old student. I am a driven worker, always looking for perfection. I love to go to the gym, and learn some new programming languages. I am currently developing API's and applications for Dobbe Transport.
+<kbd><img src="/header.png" /></kbd>
 
+<div align="center">
+
+# My resume
+Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old student. I am a driven worker, always looking for perfection. I love to go to the gym, and learn some new programming languages.
 
 # Education
-- MBO Nova College Hoofddorp: Software Development 2019 - present
-- MBO Nova College Hoofddorp: Civil Engineering 2018 - 2019
-- KTS Voorhout: Build living and interior 2015 - 2018
+MBO Nova College Hoofddorp: Software Development 2019 - present\
+MBO Nova College Hoofddorp: Civil Engineering 2018 - 2019\
+KTS Voorhout: Build living and interior 2015 - 2018
 
 # Employment Experience
 
-- 👨‍💻  **Application Development**\
-  📆  05-12-2020 - present\
-  📍  **Dobbe Transport:** Roelofarendsveen, Netherlands\
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  
-- 👨‍💻  **Internship Application Development**\
-  📆  28-09-2020 - 15-01-2021\
-  📍  **Verdel ICT & Media:** Roelofarendsveen, Netherlands\
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Powerapps-672367?style=for-the-badge&logo=Powerapps&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  
-- Dobbe Transport washing crew: 27-08-2016 - 28-11-2020
-- New York Pizza delivery: 24-02-2020 - 01-01-2021
+👨‍💻  **Application Development**\
+📆  05-12-2020 - present\
+📍  **Dobbe Transport:** Roelofarendsveen, Netherlands\
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+👨‍💻  **Internship Application Development**\
+📆  28-09-2020 - 15-01-2021\
+📍  **Verdel ICT & Media:** Roelofarendsveen, Netherlands\
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Powerapps-672367?style=for-the-badge&logo=Powerapps&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+Dobbe Transport washing crew: 27-08-2016 - 28-11-2020
+
+New York Pizza delivery: 24-02-2020 - 01-01-2021
 
 # Skills
 Below are some languages i am proficient in. I am to this day still developing my skills in C#, JavaScript and SQL. You can check out the <a href="https://github.com/dannyverdel/dannyverdel/tree/main/Certificates">Certificates</a> folder for more details.
@@ -48,9 +53,9 @@ I learned most of my skills on the following websites/apps
 <a href="https://www.instagram.com/dannyverdel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 # Currently working on 
-- API platform for Dobbe Transport using Azure functions
-- App for internal use at Dobbe Transport using react-native
-- MSDB (Movies & Shows Database) App for myself using react-native
+API platform for Dobbe Transport using Azure functions\
+App for internal use at Dobbe Transport using react-native\
+MSDB (Movies & Shows Database) App for myself using react-native
 
 # Stats
 [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true&exclude_repo=dannyverdel)](https://github.com/dannyverdel/dannyverdel)
@@ -58,3 +63,5 @@ I learned most of my skills on the following websites/apps
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=MSDB&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF)](https://github.com/dannyverdel/MSDB)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
+
+</div>
