@@ -1,8 +1,6 @@
 <kbd><img src="/header.png" /></kbd>
 
 <div align="center">
-  
-![](https://komarev.com/ghpvc/?username=dannyverdel)
 
 # My resume
 Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old student software developer at Nova College in Hoofddorp, Netherlands. I am a driven worker, always looking for perfection. I love to go to the gym, and learn some new programming languages.
