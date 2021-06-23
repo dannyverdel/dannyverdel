@@ -58,10 +58,10 @@ App for internal use at Dobbe Transport using react-native\
 MSDB (Movies & Shows Database) App for myself using react-native
 
 # Stats
-[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true&exclude_repo=dannyverdel)](https://github.com/dannyverdel/dannyverdel)
+[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/dannyverdel/dannyverdel)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=MSDB&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF)](https://github.com/dannyverdel/MSDB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=MSDB&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=FFFFFF)](https://github.com/dannyverdel/MSDB)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dannyverdel&show_icons=true&title_color=FFFFFF&bg_color=0d1116&text_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dannyverdel&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=FFFFFF&show_owner=true)](https://github.com/dannyverdel/github-readme-stats)
 
 </div>
