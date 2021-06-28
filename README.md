@@ -58,6 +58,11 @@ App for internal use at Dobbe Transport using react-native\
 MSDB (Movies & Shows Database) App for myself using react-native
 
 # Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues)](https://github.com/dannyverdel/dannyverdel)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=MSDB&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=FFFFFF)](https://github.com/dannyverdel/MSDB)
