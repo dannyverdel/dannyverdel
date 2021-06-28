@@ -60,6 +60,10 @@ MSDB (Movies & Shows Database) App for myself using react-native
 # Stats
 
 <!--START_SECTION:waka-->
+```text
+C            1 min           ███████████████░░░░░░░░░░   60.40 % 
+JavaScript   1 min           ██████████░░░░░░░░░░░░░░░   39.60 % 
+```
 <!--END_SECTION:waka-->
 
 
