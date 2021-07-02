@@ -63,11 +63,11 @@ MSDB (Movies & Shows Database) App for myself using react-native
 
 <!--START_SECTION:waka-->
 ```text
-C            4 hrs 57 mins   ██████████▒░░░░░░░░░░░░░░   40.93 % 
-C#           3 hrs 21 mins   ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-JavaScript   1 hr 50 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-JSON         56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Other        55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+C#           6 hrs 7 mins    █████████▒░░░░░░░░░░░░░░░   37.91 % 
+C            5 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   34.44 % 
+JavaScript   1 hr 52 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+JSON         1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Other        1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 ```
 <!--END_SECTION:waka-->
 
