@@ -1,5 +1,3 @@
-<kbd><img src="/header.png" /></kbd>
-
 <div align="center">
 
 # My resume
@@ -44,12 +42,6 @@ Below are some languages i am proficient in. I am to this day still developing m
 <a href=""><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 
-I learned most of my skills on the following websites/apps
-
-<a href=""><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Sololearn-1ABC9C?style=for-the-badge&logo=sololearn&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/LinkedIn Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></img>
-
 # Contact
 <a href="mailto:danny.verdel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/dannyverdel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -70,10 +62,5 @@ JavaScript   1 hr 13 mins    █░░░░░░░░░░░░░░░░
 Python       1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 <!--END_SECTION:waka-->
-  
-[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=FFF)](https://github.com/dannyverdel/dannyverdel)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=MSDB&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=FFFFFF)](https://github.com/dannyverdel/MSDB)
-<br>
 
 </div>
