@@ -70,13 +70,10 @@ JavaScript   1 hr 13 mins    █░░░░░░░░░░░░░░░░
 Python       1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 <!--END_SECTION:waka-->
-
-
+  
 [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyverdel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=FFF)](https://github.com/dannyverdel/dannyverdel)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dannyverdel&repo=MSDB&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=FFFFFF)](https://github.com/dannyverdel/MSDB)
 <br>
-
-![Spotify recent](https://spotify-recently-played-readme.vercel.app/api?user=luckyd4nny&count=3)
 
 </div>
