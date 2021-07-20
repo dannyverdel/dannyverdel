@@ -4,9 +4,9 @@
 Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old student software developer at Nova College in Hoofddorp, Netherlands. I am a driven worker, always looking for perfection. I love to go to the gym, and learn some new programming languages.
 
 # Education
-MBO Nova College Hoofddorp: Software Development 2019 - present\
-MBO Nova College Hoofddorp: Civil Engineering 2018 - 2019\
-KTS Voorhout: Build living and interior 2015 - 2018
+- MBO Nova College Hoofddorp: Software Development 2019 - present\
+- MBO Nova College Hoofddorp: Civil Engineering 2018 - 2019\
+- KTS Voorhout: Build living and interior 2015 - 2018
 
 # Employment Experience
 
@@ -47,9 +47,8 @@ Below are some languages i am proficient in. I am to this day still developing m
 <a href="https://www.instagram.com/dannyverdel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 # Currently working on 
-API platform for Dobbe Transport using Azure functions\
-App for internal use at Dobbe Transport using react-native\
-MSDB (Movies & Shows Database) App for myself using react-native
+- API platform for Dobbe Transport using Azure functions\
+- MSDB (Movies & Shows Database) App for myself using react-native
 
 # Stats
 
