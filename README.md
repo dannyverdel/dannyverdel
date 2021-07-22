@@ -54,11 +54,11 @@ Below are some languages i am proficient in. I am to this day still developing m
 
 <!--START_SECTION:waka-->
 ```text
-C            8 hrs 26 mins   ██████████████████▓░░░░░░   74.23 % 
-C++          2 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Python       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-C#           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+C            6 hrs 49 mins   █████████████████▒░░░░░░░   69.84 % 
+C++          2 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.20 % 
+Python       28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+C#           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 <!--END_SECTION:waka-->
 
