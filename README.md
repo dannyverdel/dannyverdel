@@ -1,16 +1,16 @@
 <!-- <div align="center"> -->
 
 # My resume
-Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old student software developer at Nova College in Hoofddorp, Netherlands. I am a driven worker, always looking for perfection. I love to go to the gym, and learn some new programming languages.
+My name is Danny Verdel. I live in Roelofarendsveen, located in the Netherlands. I am a third year software development student at Nova College in Hoofddorp. I specialize in backend development using C languages (C, C++ and C#). I am a sporty guy, I like to go cycling and learn new programming languages or develop my skills in them. 
 
 # Education
-- MBO Nova College Hoofddorp: Software Development 2019 - present\
-- MBO Nova College Hoofddorp: Civil Engineering 2018 - 2019\
+- MBO Nova College Hoofddorp: Software Development 2019 - present
+- MBO Nova College Hoofddorp: Civil Engineering 2018 - 2019
 - KTS Voorhout: Build living and interior 2015 - 2018
 
 # Employment Experience
 
-👨‍💻  **Application Development**\
+👨‍💻  **Software Development**\
 📆  05-12-2020 - present\
 📍  **Dobbe Transport:** Roelofarendsveen, Netherlands\
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -25,13 +25,18 @@ Hello and welcome to my resume. My name is Danny Verdel and I am an 18 year old 
 <img src="https://img.shields.io/badge/Powerapps-672367?style=for-the-badge&logo=Powerapps&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
-Dobbe Transport washing crew: 27-08-2016 - 28-11-2020
+👨‍💻  **Washing Crew**\
+📆  27-08-2016 - 28-11-2020\
+📍  **Dobbe Transport:** Roelofarendsveen, Netherlands
 
-New York Pizza delivery: 24-02-2020 - 01-01-2021
+👨‍💻  **Pizza Delivery**\
+📆  24-02-2020 - 01-01-2021\
+📍  **New York Pizza:** Roelofarendsveen, Netherlands
 
 # Skills
-Below are some languages i am proficient in. I am to this day still developing my skills in C#, JavaScript and SQL. You can check out the <a href="https://github.com/dannyverdel/dannyverdel/tree/main/Certificates">Certificates</a> folder for more details.
+Below are some skills i am proficient in and working on. I am to this day still developing my skills in C, C++ and C#. You can check out my <a href="https://github.com/dannyverdel/dannyverdel/tree/main/Certificates">Certificates</a> for more details.
 
+<a href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href=""><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
@@ -42,13 +47,8 @@ Below are some languages i am proficient in. I am to this day still developing m
 <a href=""><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 
-# Contact
-<a href="mailto:danny.verdel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/dannyverdel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
 # Currently working on 
-- API platform for Dobbe Transport using Azure functions\
-- MSDB (Movies & Shows Database) App for myself using react-native
+- API platform for Dobbe Transport using Azure functions
 
 # Stats
 
@@ -61,5 +61,7 @@ JSON    7 mins          ▒░░░░░░░░░░░░░░░░░�
 Text    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 <!--END_SECTION:waka-->
+
+<a href="mailto:danny.verdel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!-- </div> -->
