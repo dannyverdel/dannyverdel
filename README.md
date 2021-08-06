@@ -1,7 +1,7 @@
 <!-- <div align="center"> -->
 
 # My resume
-My name is Danny Verdel. I live in Roelofarendsveen, located in the Netherlands. I am a third year software development student at Nova College in Hoofddorp. I specialize in backend development using C languages (C, C++ and C#). I am a sporty guy, I like to go cycling and learn new programming languages or develop my skills in them. 
+My name is Danny Verdel. I live in Roelofarendsveen, located in the Netherlands. I am a third year software development student at Nova College in Hoofddorp. I specialize in Azure Functions using C#. I am a sporty guy, I like to go cycling and learn new programming languages or develop my skills in them. 
 
 # Education
 - MBO Nova College Hoofddorp: Software Development 2019 - present
