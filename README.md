@@ -54,10 +54,11 @@ Below are some skills i am proficient in and working on. I am to this day still 
 
 <!--START_SECTION:waka-->
 ```text
-C#      10 hrs 28 mins  ████████████▒░░░░░░░░░░░░   49.49 % 
-C++     9 hrs 50 mins   ███████████▓░░░░░░░░░░░░░   46.52 % 
-Other   48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+C++     11 hrs 22 mins  ████████████▓░░░░░░░░░░░░   50.02 % 
+C#      10 hrs 28 mins  ███████████▓░░░░░░░░░░░░░   46.05 % 
+Other   48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 JSON    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+CMake   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 <!--END_SECTION:waka-->
 
